@@ -1,4 +1,4 @@
-"use client"
+
 import React, { useState, useEffect, useCallback } from 'react';
 import AIChatWidget from './components/AIChatWidget';
 import ThemeToggle from './components/ThemeToggle';
