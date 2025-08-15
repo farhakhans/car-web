@@ -1,0 +1,5 @@
+{
+  "name": " Farha Car Showroom",
+  "description": "An interactive car showroom experience featuring a conversational AI sales agent powered by Gemini. Users can ask questions about available cars, get recommendations, and receive assistance in a realistic chat interface.",
+  "requestFramePermissions": []
+}
